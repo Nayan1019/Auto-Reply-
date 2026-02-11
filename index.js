@@ -12,7 +12,7 @@ try {
 }
 
 // ✅ Group Info
-const GROUP_THREAD_ID = "1775322919817179";
+const GROUP_THREAD_ID = "787101894405712";
 const LOCKED_GROUP_NAME = "CUNARA + RADHA + SURAJ KI MAA KI (") ❤️ CHUT FATTII 🤣🤣";
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
